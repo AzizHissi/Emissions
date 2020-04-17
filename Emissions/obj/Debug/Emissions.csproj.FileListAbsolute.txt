@@ -1,0 +1,10 @@
+C:\Users\Aziz\source\repos\Emissions\Emissions\bin\Debug\Emissions.exe.config
+C:\Users\Aziz\source\repos\Emissions\Emissions\bin\Debug\Emissions.exe
+C:\Users\Aziz\source\repos\Emissions\Emissions\bin\Debug\Emissions.pdb
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.csprojAssemblyReference.cache
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.Form1.resources
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.Properties.Resources.resources
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.csproj.GenerateResource.cache
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.exe
+C:\Users\Aziz\source\repos\Emissions\Emissions\obj\Debug\Emissions.pdb
